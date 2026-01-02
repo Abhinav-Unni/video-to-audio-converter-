@@ -1,0 +1,5 @@
+{
+  "name": "Video to Audio Converter",
+  "description": "A powerful browser-based video-to-audio converter supporting WAV and MP3 formats.",
+  "requestFramePermissions": []
+}
